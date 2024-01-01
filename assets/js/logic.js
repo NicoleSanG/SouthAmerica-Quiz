@@ -55,7 +55,7 @@ function displayQuestion() {
                 function playIncorrectAudio() {
                     var incorrect = new Audio('./assets/sfx/incorrect.wav');
                     incorrect.play();
-                    timer.textContent = time -= 10;
+                    timer.textContent = time -= 10; //When the answer is incorrect, the timer will subtract 10 seconds
                 }
                 playIncorrectAudio();
             }
