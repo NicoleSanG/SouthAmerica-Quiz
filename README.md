@@ -23,7 +23,7 @@ Keep following until the quiz is finished. After you've finished, you'll see a s
 
 The score will be saved in a leaderboard with all the scores from various users. It should look like this:
 
-![Desktop view](./assets/images/.png)
+![Desktop view](./assets/images/quiz5.png)
 
 
 ## License
